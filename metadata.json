@@ -1,0 +1,6 @@
+{
+  "name": "Arrow Pointer Detector",
+  "description": "Detect arrows in images and identify the objects they are pointing to with precise crops and labels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
